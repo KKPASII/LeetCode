@@ -7,15 +7,14 @@ public:
         vector<vector<string>> answer;
         int strs_len = strs.size();
         unordered_map<string, vector<string>> map;
-        string str;
 
-        for (int i = 0; i < strs_len; i++) {
-            str = strs[i];
-            sort(strs[i].begin(), strs[i].end());
-            map[strs[i]].push_back(str);
+        for (const string& str : strs) {
+            string sorted_str = str;
+            sort(sorted_str.begin(), sorted_str.end());
+            map[sorted_str].push_back(str);
         }
 
-        for (auto ans : map) {
+        for (const auto& ans : map) {
             answer.push_back(ans.second);
         }
         
