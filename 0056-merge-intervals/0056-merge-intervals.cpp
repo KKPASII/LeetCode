@@ -18,7 +18,6 @@ public:
                 answer.push_back(intervals[i]);
                 left = intervals[i][0];
                 right = intervals[i][1];
-                continue;
             }
 
             right = max(right, intervals[i][1]);
