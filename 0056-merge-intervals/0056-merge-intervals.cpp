@@ -1,13 +1,10 @@
-#include <iostream>
-#include <algorithm>
-#include <vector>
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
         vector<vector<int>> answer;
         sort(intervals.begin(), intervals.end());
-
-        for (int i = 0; i < intervals.size(); i++) {
+        int size = intervals.size();
+        for (int i = 0; i < size; i++) {
             if (answer.empty() || answer.back()[1] < intervals[i][0]) {
                 answer.push_back(intervals[i]);
             }
