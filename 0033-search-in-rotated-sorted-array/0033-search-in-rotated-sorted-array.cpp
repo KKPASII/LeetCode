@@ -5,19 +5,17 @@ public:
         int mid;
 
         while (left <= right) {
-            mid = (left + right) / 2;
-            int mid_num = nums[mid];
-            int left_num = nums[left];
-            int right_num = nums[right];
+            int mid = left + (right - left) / 2;
 
-            if (target == mid_num) return mid;
-            else if (left_num <= mid_num) {
-                if (left_num <= target && target <= mid_num)
+            if (target == nums[mid]) return mid;
+            
+            if (nums[left] <= nums[mid]) {
+                if (nums[left] <= target && target <= nums[mid])
                     right = mid - 1;
                 else left = mid + 1;     
             }
             else {
-                if (mid_num <= target && target <= right_num)
+                if (nums[mid] <= target && target <= nums[right])
                     left = mid + 1;
                 else right = mid - 1;
             }
