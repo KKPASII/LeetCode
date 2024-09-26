@@ -11,14 +11,13 @@ public:
             const int right_num = nums[right];
 
             if (target == mid_num) return mid;
-            
-            if (left_num <= mid_num) {
+            else if (left_num <= mid_num) {
                 if (left_num <= target && target <= mid_num)
                     right = mid - 1;
                 else left = mid + 1;
                     
             }
-            else if (mid_num <= right_num) {
+            else {
                 if (mid_num <= target && target <= right_num)
                     left = mid + 1;
                 else right = mid - 1;
