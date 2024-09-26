@@ -4,8 +4,6 @@ public:
         int left = 0, right = nums.size() - 1;
         int mid;
 
-        // [4, 0, 1, 2, 3]
-        // 왼쪽이 정렬된 경우, 오른쪽이 정렬된 경우
         while (left <= right) {
             mid = (left + right) / 2;
             const int mid_num = nums[mid];
