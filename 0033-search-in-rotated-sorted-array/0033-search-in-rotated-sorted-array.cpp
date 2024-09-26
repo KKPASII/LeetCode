@@ -6,16 +6,15 @@ public:
 
         while (left <= right) {
             mid = (left + right) / 2;
-            const int mid_num = nums[mid];
-            const int left_num = nums[left];
-            const int right_num = nums[right];
+            int mid_num = nums[mid];
+            int left_num = nums[left];
+            int right_num = nums[right];
 
             if (target == mid_num) return mid;
             else if (left_num <= mid_num) {
                 if (left_num <= target && target <= mid_num)
                     right = mid - 1;
-                else left = mid + 1;
-                    
+                else left = mid + 1;     
             }
             else {
                 if (mid_num <= target && target <= right_num)
