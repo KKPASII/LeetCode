@@ -4,12 +4,8 @@ public:
         int left = 0;
         int right = height.size()-1;
         int max_water = 0;
-        int w, h;
         while (left < right) {
-            w = right - left;
-            h = min(height[left], height[right]);
-            int water = w * h;
-
+            int water = (right - left) * min(height[left], height[right]);
             max_water = max(max_water, water);
 
             if (height[left] < height[right]) {
