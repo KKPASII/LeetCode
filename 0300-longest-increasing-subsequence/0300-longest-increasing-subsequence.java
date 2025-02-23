@@ -1,21 +1,23 @@
 class Solution {
-    int answer = 0;
+    private int[][] dp;
 
-    public void getLongestSubsequence(int[] nums, int index, int prev, int count) {
-        if (index == nums.length) {
-            answer = Math.max(answer, count);
-            return;
+    public int getLongestSubsequence(int[] nums, int index, int prevIndex) {
+        if (index == nums.length) return 0;
+        if (dp[index][prevIndex + 1] != -1) return dp[index][prevIndex + 1];
+
+        int taken = 0;
+        if (prevIndex == -1 || nums[index] > nums[prevIndex]) {
+            taken = 1 + getLongestSubsequence(nums, index + 1, index);
         }
+        int notTaken = getLongestSubsequence(nums, index + 1, prevIndex);
 
-        if (prev == -1 || nums[index] > nums[prev]) {
-            getLongestSubsequence(nums, index + 1, index, count + 1);
-        }
-
-        getLongestSubsequence(nums, index + 1, prev, count);
+        return dp[index][prevIndex + 1] = Math.max(taken, notTaken);
     }
 
     public int lengthOfLIS(int[] nums) {
-        getLongestSubsequence(nums, 0, -1, 0);
-        return answer;
+        int n = nums.length;
+        dp = new int[n][n + 1];
+        for (int[] row : dp) Arrays.fill(row, -1);
+        return getLongestSubsequence(nums, 0, -1);
     }
 }
