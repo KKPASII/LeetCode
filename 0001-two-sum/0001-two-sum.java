@@ -9,6 +9,6 @@ class Solution {
             }
             map.put(nums[i], i);
         }
-        throw new IllegalArgumentException("정답이 존재하지 않습니다.");
+        return new int[]{-1 , -1};
     }
 }
