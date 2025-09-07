@@ -16,6 +16,6 @@ class Solution {
             }
             map.put(c, cnt - 1);
         }
-        return false;
+        return true;
     }
 }
