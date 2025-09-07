@@ -4,19 +4,21 @@ class Solution {
             return false;
         }
 
-        int[] alphabet = new int[26];
-
-        for (int i = 0; i < s.length(); i++) {
-            alphabet[s.charAt(i)-'a']++;
-            alphabet[t.charAt(i)-'a']--;
+        Map<Character, Integer> map = new HashMap<>();
+        for (char c : s.toCharArray()) {
+            map.put(c, map.getOrDefault(c, 0)+1);
         }
 
-        for (int a : alphabet) {
-            if (a != 0) {
+        for (char c : t.toCharArray()) {
+            map.put(c, map.getOrDefault(c, 0)-1);
+        }
+
+        for (int i : map.values()) {
+            if (i != 0) {
                 return false;
             }
         }
-        
+
         return true;
     }
 }
