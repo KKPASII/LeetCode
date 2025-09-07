@@ -12,7 +12,7 @@ class Solution {
 
         for (int i = 0; i < t.length(); i++) {
             alphabet[t.charAt(i)-'a']--;
-            if (alphabet[i] < 0) {
+            if (alphabet[t.charAt(i)-'a'] < 0) {
                 return false;
             }
         }
