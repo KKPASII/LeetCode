@@ -12,6 +12,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/KKPASII/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0242-valid-anagram](https://github.com/KKPASII/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,4 +34,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/KKPASII/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/KKPASII/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/KKPASII/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
