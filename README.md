@@ -7,6 +7,7 @@
 | [0053-maximum-subarray](https://github.com/KKPASII/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/KKPASII/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/KKPASII/LeetCode/tree/main/0057-insert-interval/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KKPASII/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0739-daily-temperatures](https://github.com/KKPASII/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -21,6 +22,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/KKPASII/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KKPASII/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
