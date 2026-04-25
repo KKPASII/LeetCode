@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/KKPASII/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0049-group-anagrams](https://github.com/KKPASII/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/KKPASII/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/KKPASII/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/KKPASII/LeetCode/tree/main/0057-insert-interval/) | Medium |
@@ -15,6 +16,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/KKPASII/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0049-group-anagrams](https://github.com/KKPASII/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/KKPASII/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0242-valid-anagram](https://github.com/KKPASII/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 ## Divide and Conquer
@@ -42,10 +44,12 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/KKPASII/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/KKPASII/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/KKPASII/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/KKPASII/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
