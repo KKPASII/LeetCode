@@ -70,4 +70,12 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/KKPASII/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KKPASII/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KKPASII/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2429-minimize-xor](https://github.com/KKPASII/LeetCode/tree/main/2429-minimize-xor/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2429-minimize-xor](https://github.com/KKPASII/LeetCode/tree/main/2429-minimize-xor/) | Medium |
 <!---LeetCode Topics End-->
