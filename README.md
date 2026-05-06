@@ -15,6 +15,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KKPASII/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KKPASII/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/KKPASII/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0539-minimum-time-difference](https://github.com/KKPASII/LeetCode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0739-daily-temperatures](https://github.com/KKPASII/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [2653-sliding-subarray-beauty](https://github.com/KKPASII/LeetCode/tree/main/2653-sliding-subarray-beauty/) | Medium |
 ## Sorting
@@ -24,6 +25,7 @@
 | [0049-group-anagrams](https://github.com/KKPASII/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/KKPASII/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0242-valid-anagram](https://github.com/KKPASII/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0539-minimum-time-difference](https://github.com/KKPASII/LeetCode/tree/main/0539-minimum-time-difference/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +60,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/KKPASII/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/KKPASII/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0539-minimum-time-difference](https://github.com/KKPASII/LeetCode/tree/main/0539-minimum-time-difference/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,4 +87,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2653-sliding-subarray-beauty](https://github.com/KKPASII/LeetCode/tree/main/2653-sliding-subarray-beauty/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0539-minimum-time-difference](https://github.com/KKPASII/LeetCode/tree/main/0539-minimum-time-difference/) | Medium |
 <!---LeetCode Topics End-->
