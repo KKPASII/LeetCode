@@ -3,15 +3,16 @@ class Solution {
         int[] times = new int[timePoints.size()];
 
         for (int i = 0; i < timePoints.size(); i++) {
+            String time = timePoints.get(i);
 
-            int hh = Integer.parseInt(timePoints.get(i).substring(0, 2));
-            int mm = Integer.parseInt(timePoints.get(i).substring(3, 5));
+            int hh = Integer.parseInt(time.substring(0, 2));
+            int mm = Integer.parseInt(time.substring(3, 5));
 
             times[i] = hh * 60 + mm;
         }
 
         Arrays.sort(times);
-
+  
         int minTime = Integer.MAX_VALUE;
 
         for (int i = 1; i < times.length; i++) {
