@@ -4,32 +4,21 @@ class Solution {
 
         for (int i = 0; i < s.length(); i++) {
             for (int j = 0; j < t.length(); j++) {
-                if (s.charAt(i) != t.charAt(j)) {
-                    int left = 0;
-                    int right = 0;
+            int diff = 0;
 
-                    int a = i - 1;
-                    int b = j - 1;
+            for (int a = i, b = j; a < s.length() && b < t.length(); a++, b++) {
+                if (s.charAt(a) != t.charAt(b)) {
+                diff++;
+            }
 
-                    while (a >= 0 && b >= 0 && s.charAt(a) == t.charAt(b)) {
-                        left++;
-                        a--;
-                        b--;
-                    }
-
-                    a = i + 1;
-                    b = j + 1;
-
-                    while (a < s.length() && b < t.length() && s.charAt(a) == t.charAt(b)) {
-                        right++;
-                        a++;
-                        b++;
-                    }
-
-                    answer += (left + 1) * (right + 1);
-                }
+            if (diff == 1) {
+                answer++;
+            } else if (diff > 1) {
+                break;
             }
         }
+    }
+}
 
         return answer;
     }
