@@ -19,6 +19,7 @@
 | [0739-daily-temperatures](https://github.com/KKPASII/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/KKPASII/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [2653-sliding-subarray-beauty](https://github.com/KKPASII/LeetCode/tree/main/2653-sliding-subarray-beauty/) | Medium |
+| [3467-transform-array-by-parity](https://github.com/KKPASII/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,6 +28,7 @@
 | [0056-merge-intervals](https://github.com/KKPASII/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0242-valid-anagram](https://github.com/KKPASII/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0539-minimum-time-difference](https://github.com/KKPASII/LeetCode/tree/main/0539-minimum-time-difference/) | Medium |
+| [3467-transform-array-by-parity](https://github.com/KKPASII/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,4 +99,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0931-minimum-falling-path-sum](https://github.com/KKPASII/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3467-transform-array-by-parity](https://github.com/KKPASII/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 <!---LeetCode Topics End-->
