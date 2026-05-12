@@ -6,19 +6,19 @@ class Solution {
             for (int j = 0; j < t.length(); j++) {
             int diff = 0;
 
-            for (int a = i, b = j; a < s.length() && b < t.length(); a++, b++) {
-                if (s.charAt(a) != t.charAt(b)) {
-                diff++;
-            }
+                for (int a = i, b = j; a < s.length() && b < t.length(); a++, b++) {
+                    if (s.charAt(a) != t.charAt(b)) {
+                        diff++;
+                    }
 
-            if (diff == 1) {
-                answer++;
-            } else if (diff > 1) {
-                break;
+                    if (diff == 1) {
+                        answer++;
+                    } else if (diff > 1) {
+                        break;
+                    }
+                }
             }
         }
-    }
-}
 
         return answer;
     }
