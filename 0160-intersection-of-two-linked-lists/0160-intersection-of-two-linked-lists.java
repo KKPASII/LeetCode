@@ -29,7 +29,7 @@ public class Solution {
         }
 
         while (headA != null) {
-            if (headA.val == headB.val && headA == headB) {
+            if (headA == headB) {
                 return headA;
             }
             headA = headA.next;
