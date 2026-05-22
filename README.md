@@ -71,12 +71,14 @@
 | [0242-valid-anagram](https://github.com/KKPASII/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0539-minimum-time-difference](https://github.com/KKPASII/LeetCode/tree/main/0539-minimum-time-difference/) | Medium |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/KKPASII/LeetCode/tree/main/1638-count-substrings-that-differ-by-one-character/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/KKPASII/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [3839-number-of-prefix-connected-groups](https://github.com/KKPASII/LeetCode/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/KKPASII/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/KKPASII/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/KKPASII/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
