@@ -1,32 +1,27 @@
 class Solution {
     public int equalPairs(int[][] grid) {
         int size = grid.length;
-
-        String[] rowNums = new String[size];
-        String[] colNums = new String[size];
-
-        for (int i = 0; i < size; i++) {
-            StringBuilder sb = new StringBuilder("");
-            for (int j = 0; j < size; j++) {
-                sb.append(grid[i][j]).append(",");;
-            }
-            rowNums[i] = sb.toString();
-        }
-
-        for (int j = 0; j < size; j++) {
-            StringBuilder sb = new StringBuilder("");
-            for (int i = 0; i < size; i++) {
-                sb.append(grid[i][j]).append(",");;
-            }
-            colNums[j] = sb.toString();
-        }
-
         int answer = 0;
+
+        HashMap<String, Integer> rowMap = new HashMap<>();
+
         for (int i = 0; i < size; i++) {
+            StringBuilder sb = new StringBuilder("");
             for (int j = 0; j < size; j++) {
-                if (rowNums[i].equals(colNums[j])) {
-                    answer++;
-                }
+                sb.append(grid[j][i]).append(",");                
+            }
+            rowMap.put(sb.toString(), rowMap.getOrDefault(sb.toString(), 0) + 1);
+        }
+
+        for (int i = 0; i < size; i++) {
+            StringBuilder sb = new StringBuilder("");
+            for (int j = 0; j < size; j++) {
+                sb.append(grid[i][j]).append(",");                
+            }
+
+            Integer value = rowMap.get(sb.toString());
+            if (value != null) {
+                answer += value;
             }
         }
 
