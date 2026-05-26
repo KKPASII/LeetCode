@@ -18,6 +18,7 @@
 | [0539-minimum-time-difference](https://github.com/KKPASII/LeetCode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0739-daily-temperatures](https://github.com/KKPASII/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/KKPASII/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1375-number-of-times-binary-string-is-prefix-aligned](https://github.com/KKPASII/LeetCode/tree/main/1375-number-of-times-binary-string-is-prefix-aligned/) | Medium |
 | [1929-concatenation-of-array](https://github.com/KKPASII/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/KKPASII/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2653-sliding-subarray-beauty](https://github.com/KKPASII/LeetCode/tree/main/2653-sliding-subarray-beauty/) | Medium |
