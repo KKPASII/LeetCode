@@ -11,7 +11,7 @@ class Solution {
             if (s.charAt(i) == '(') {
                 left++;
             }
-            else if (s.charAt(i) == ')') {
+            else {
                 right++;
             }
 
