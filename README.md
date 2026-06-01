@@ -21,6 +21,7 @@
 | [1375-number-of-times-binary-string-is-prefix-aligned](https://github.com/KKPASII/LeetCode/tree/main/1375-number-of-times-binary-string-is-prefix-aligned/) | Medium |
 | [1929-concatenation-of-array](https://github.com/KKPASII/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/KKPASII/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [2506-count-pairs-of-similar-strings](https://github.com/KKPASII/LeetCode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2653-sliding-subarray-beauty](https://github.com/KKPASII/LeetCode/tree/main/2653-sliding-subarray-beauty/) | Medium |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/KKPASII/LeetCode/tree/main/3424-minimum-cost-to-make-arrays-identical/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/KKPASII/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
@@ -69,6 +70,7 @@
 | [0242-valid-anagram](https://github.com/KKPASII/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/KKPASII/LeetCode/tree/main/1638-count-substrings-that-differ-by-one-character/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/KKPASII/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [2506-count-pairs-of-similar-strings](https://github.com/KKPASII/LeetCode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2653-sliding-subarray-beauty](https://github.com/KKPASII/LeetCode/tree/main/2653-sliding-subarray-beauty/) | Medium |
 | [3839-number-of-prefix-connected-groups](https://github.com/KKPASII/LeetCode/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 ## String
@@ -80,6 +82,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/KKPASII/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/KKPASII/LeetCode/tree/main/1638-count-substrings-that-differ-by-one-character/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/KKPASII/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2506-count-pairs-of-similar-strings](https://github.com/KKPASII/LeetCode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [3839-number-of-prefix-connected-groups](https://github.com/KKPASII/LeetCode/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -106,6 +109,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2429-minimize-xor](https://github.com/KKPASII/LeetCode/tree/main/2429-minimize-xor/) | Medium |
+| [2506-count-pairs-of-similar-strings](https://github.com/KKPASII/LeetCode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,6 +126,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2506-count-pairs-of-similar-strings](https://github.com/KKPASII/LeetCode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/KKPASII/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3839-number-of-prefix-connected-groups](https://github.com/KKPASII/LeetCode/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 ## Enumeration
