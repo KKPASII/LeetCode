@@ -3,7 +3,7 @@ class Solution {
         Stack<Character> stack = new Stack<>();
 
         for (char c : s.toCharArray()) {
-            if (c - 'a' >= 0 && c - 'z' <= 0) {
+            if ('a' <= c && c <= 'z') {
                 stack.push(c);
             }
             else {
@@ -15,7 +15,7 @@ class Solution {
         while (!stack.isEmpty()) {
             sb.append(stack.pop());
         }
-        sb.reverse();
-        return sb.toString();
+        
+        return sb.reverse().toString();
     }
 }
