@@ -18,6 +18,7 @@
 | [0539-minimum-time-difference](https://github.com/KKPASII/LeetCode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0739-daily-temperatures](https://github.com/KKPASII/LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/KKPASII/LeetCode/tree/main/0804-unique-morse-code-words/) | Easy |
+| [0908-smallest-range-i](https://github.com/KKPASII/LeetCode/tree/main/0908-smallest-range-i/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/KKPASII/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1375-number-of-times-binary-string-is-prefix-aligned](https://github.com/KKPASII/LeetCode/tree/main/1375-number-of-times-binary-string-is-prefix-aligned/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/KKPASII/LeetCode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
@@ -130,6 +131,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0539-minimum-time-difference](https://github.com/KKPASII/LeetCode/tree/main/0539-minimum-time-difference/) | Medium |
+| [0908-smallest-range-i](https://github.com/KKPASII/LeetCode/tree/main/0908-smallest-range-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
