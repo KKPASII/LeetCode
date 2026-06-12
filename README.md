@@ -73,6 +73,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/KKPASII/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0141-linked-list-cycle](https://github.com/KKPASII/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/KKPASII/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0242-valid-anagram](https://github.com/KKPASII/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/KKPASII/LeetCode/tree/main/0804-unique-morse-code-words/) | Easy |
@@ -98,6 +99,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/KKPASII/LeetCode/tree/main/0015-3sum/) | Medium |
+| [0141-linked-list-cycle](https://github.com/KKPASII/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/KKPASII/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/KKPASII/LeetCode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/KKPASII/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -151,6 +153,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/KKPASII/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/KKPASII/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
