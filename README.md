@@ -50,6 +50,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/KKPASII/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/KKPASII/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KKPASII/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/KKPASII/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/KKPASII/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
@@ -132,6 +133,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/KKPASII/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0539-minimum-time-difference](https://github.com/KKPASII/LeetCode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0908-smallest-range-i](https://github.com/KKPASII/LeetCode/tree/main/0908-smallest-range-i/) | Easy |
 ## Matrix
@@ -161,4 +163,8 @@
 | [1929-concatenation-of-array](https://github.com/KKPASII/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/KKPASII/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [3174-clear-digits](https://github.com/KKPASII/LeetCode/tree/main/3174-clear-digits/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/KKPASII/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
