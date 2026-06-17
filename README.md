@@ -24,6 +24,7 @@
 | [1375-number-of-times-binary-string-is-prefix-aligned](https://github.com/KKPASII/LeetCode/tree/main/1375-number-of-times-binary-string-is-prefix-aligned/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/KKPASII/LeetCode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/KKPASII/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/KKPASII/LeetCode/tree/main/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | Medium |
 | [1929-concatenation-of-array](https://github.com/KKPASII/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/KKPASII/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2506-count-pairs-of-similar-strings](https://github.com/KKPASII/LeetCode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
@@ -80,6 +81,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/KKPASII/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0242-valid-anagram](https://github.com/KKPASII/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/KKPASII/LeetCode/tree/main/0804-unique-morse-code-words/) | Easy |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/KKPASII/LeetCode/tree/main/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | Medium |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/KKPASII/LeetCode/tree/main/1638-count-substrings-that-differ-by-one-character/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/KKPASII/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2506-count-pairs-of-similar-strings](https://github.com/KKPASII/LeetCode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
@@ -105,6 +107,7 @@
 | [0141-linked-list-cycle](https://github.com/KKPASII/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/KKPASII/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/KKPASII/LeetCode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/KKPASII/LeetCode/tree/main/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/KKPASII/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -138,6 +141,7 @@
 | [0070-climbing-stairs](https://github.com/KKPASII/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0539-minimum-time-difference](https://github.com/KKPASII/LeetCode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0908-smallest-range-i](https://github.com/KKPASII/LeetCode/tree/main/0908-smallest-range-i/) | Easy |
+| [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/KKPASII/LeetCode/tree/main/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
