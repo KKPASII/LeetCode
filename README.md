@@ -157,6 +157,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/KKPASII/LeetCode/tree/main/1291-sequential-digits/) | Medium |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/KKPASII/LeetCode/tree/main/1638-count-substrings-that-differ-by-one-character/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
