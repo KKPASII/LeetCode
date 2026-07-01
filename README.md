@@ -15,6 +15,7 @@
 | [0152-maximum-product-subarray](https://github.com/KKPASII/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KKPASII/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KKPASII/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0200-number-of-islands](https://github.com/KKPASII/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/KKPASII/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0322-coin-change](https://github.com/KKPASII/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0539-minimum-time-difference](https://github.com/KKPASII/LeetCode/tree/main/0539-minimum-time-difference/) | Medium |
@@ -150,6 +151,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/KKPASII/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/KKPASII/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/KKPASII/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/KKPASII/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
@@ -183,5 +185,14 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/KKPASII/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/KKPASII/LeetCode/tree/main/0322-coin-change/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/KKPASII/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/KKPASII/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
