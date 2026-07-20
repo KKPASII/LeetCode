@@ -32,6 +32,7 @@
 | [2506-count-pairs-of-similar-strings](https://github.com/KKPASII/LeetCode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/KKPASII/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
 | [2653-sliding-subarray-beauty](https://github.com/KKPASII/LeetCode/tree/main/2653-sliding-subarray-beauty/) | Medium |
+| [3238-find-the-number-of-winning-players](https://github.com/KKPASII/LeetCode/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/KKPASII/LeetCode/tree/main/3424-minimum-cost-to-make-arrays-identical/) | Medium |
 | [3452-sum-of-good-numbers](https://github.com/KKPASII/LeetCode/tree/main/3452-sum-of-good-numbers/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/KKPASII/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
@@ -89,6 +90,7 @@
 | [2352-equal-row-and-column-pairs](https://github.com/KKPASII/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2506-count-pairs-of-similar-strings](https://github.com/KKPASII/LeetCode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2653-sliding-subarray-beauty](https://github.com/KKPASII/LeetCode/tree/main/2653-sliding-subarray-beauty/) | Medium |
+| [3238-find-the-number-of-winning-players](https://github.com/KKPASII/LeetCode/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 | [3839-number-of-prefix-connected-groups](https://github.com/KKPASII/LeetCode/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -159,6 +161,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2506-count-pairs-of-similar-strings](https://github.com/KKPASII/LeetCode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
+| [3238-find-the-number-of-winning-players](https://github.com/KKPASII/LeetCode/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/KKPASII/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3839-number-of-prefix-connected-groups](https://github.com/KKPASII/LeetCode/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 ## Enumeration
