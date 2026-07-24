@@ -104,6 +104,7 @@
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/KKPASII/LeetCode/tree/main/1638-count-substrings-that-differ-by-one-character/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/KKPASII/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/KKPASII/LeetCode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
+| [2938-separate-black-and-white-balls](https://github.com/KKPASII/LeetCode/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3174-clear-digits](https://github.com/KKPASII/LeetCode/tree/main/3174-clear-digits/) | Easy |
 | [3839-number-of-prefix-connected-groups](https://github.com/KKPASII/LeetCode/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 ## Two Pointers
@@ -117,6 +118,7 @@
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/KKPASII/LeetCode/tree/main/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/KKPASII/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2562-find-the-array-concatenation-value](https://github.com/KKPASII/LeetCode/tree/main/2562-find-the-array-concatenation-value/) | Easy |
+| [2938-separate-black-and-white-balls](https://github.com/KKPASII/LeetCode/tree/main/2938-separate-black-and-white-balls/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +136,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/KKPASII/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [2429-minimize-xor](https://github.com/KKPASII/LeetCode/tree/main/2429-minimize-xor/) | Medium |
+| [2938-separate-black-and-white-balls](https://github.com/KKPASII/LeetCode/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/KKPASII/LeetCode/tree/main/3424-minimum-cost-to-make-arrays-identical/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
