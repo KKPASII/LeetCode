@@ -1,10 +1,17 @@
 class Solution {
+    private final int[] dx = {1, 0, -1, 0};
+    private final int[] dy = {0, -1, 0, 1};
+
     public boolean exist(char[][] board, String word) {
+        if (word.length() > board.length * board[0].length) {
+            return false;
+        }
+
         boolean[][] visited = new boolean[board.length][board[0].length];
 
         for (int i = 0; i < board.length; i++) {
             for (int j = 0; j < board[0].length; j++) {
-                if (dfs(board, visited, word, i, j, 0)) {
+                if (board[i][j] == word.charAt(0) && dfs(board, visited, word, i, j, 0)) {
                     return true;
                 }
             }
@@ -14,14 +21,8 @@ class Solution {
     }
 
     public boolean dfs(char[][] board, boolean[][] visited, String word, int x, int y, int idx) {
-        int[] dx = {1, 0, -1, 0};
-        int[] dy = {0, -1, 0, 1};
 
-        if (visited[x][y]) {
-            return false;
-        }
-
-        if (board[x][y] != word.charAt(idx)) {
+        if (visited[x][y] || board[x][y] != word.charAt(idx)) {
             return false;
         }
 
