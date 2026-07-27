@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/KKPASII/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/KKPASII/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/KKPASII/LeetCode/tree/main/0057-insert-interval/) | Medium |
+| [0079-word-search](https://github.com/KKPASII/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KKPASII/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/KKPASII/LeetCode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KKPASII/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -97,6 +98,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/KKPASII/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0079-word-search](https://github.com/KKPASII/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0242-valid-anagram](https://github.com/KKPASII/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0539-minimum-time-difference](https://github.com/KKPASII/LeetCode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/KKPASII/LeetCode/tree/main/0804-unique-morse-code-words/) | Easy |
@@ -157,6 +159,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/KKPASII/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/KKPASII/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/KKPASII/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/KKPASII/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -197,9 +200,14 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/KKPASII/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/KKPASII/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/KKPASII/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/KKPASII/LeetCode/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
