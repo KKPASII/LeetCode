@@ -86,6 +86,7 @@
 | [0141-linked-list-cycle](https://github.com/KKPASII/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/KKPASII/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0242-valid-anagram](https://github.com/KKPASII/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/KKPASII/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/KKPASII/LeetCode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/KKPASII/LeetCode/tree/main/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | Medium |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/KKPASII/LeetCode/tree/main/1638-count-substrings-that-differ-by-one-character/) | Medium |
@@ -100,6 +101,7 @@
 | [0049-group-anagrams](https://github.com/KKPASII/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0079-word-search](https://github.com/KKPASII/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0242-valid-anagram](https://github.com/KKPASII/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/KKPASII/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0539-minimum-time-difference](https://github.com/KKPASII/LeetCode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/KKPASII/LeetCode/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/KKPASII/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -148,6 +150,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/KKPASII/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [2653-sliding-subarray-beauty](https://github.com/KKPASII/LeetCode/tree/main/2653-sliding-subarray-beauty/) | Medium |
 ## Math
 | Problem Name | Difficulty |
