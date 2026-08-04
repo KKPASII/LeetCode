@@ -199,6 +199,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KKPASII/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0112-path-sum](https://github.com/KKPASII/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/KKPASII/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0322-coin-change](https://github.com/KKPASII/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/KKPASII/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -206,6 +207,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/KKPASII/LeetCode/tree/main/0079-word-search/) | Medium |
+| [0112-path-sum](https://github.com/KKPASII/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0200-number-of-islands](https://github.com/KKPASII/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/KKPASII/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Union-Find
@@ -220,10 +222,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KKPASII/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0112-path-sum](https://github.com/KKPASII/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/KKPASII/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KKPASII/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0112-path-sum](https://github.com/KKPASII/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/KKPASII/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
