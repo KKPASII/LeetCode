@@ -13,20 +13,11 @@ class Solution {
     public List<List<Integer>> findSolution(CustomFunction customfunction, int z) {
         List<List<Integer>> answer = new ArrayList<>();
 
-        int left = 1;
-        int right = 1000;
-
-        while (left <= 1000 && right > 0) {
-            if (customfunction.f(left, right) == z) {
-                answer.add(Arrays.asList(left, right));
-                left++;
-                right--;
-            }
-            else if (customfunction.f(left, right) < z) {
-                left++;
-            }
-            else {
-                right--;
+        for (int x = 1; x <= 1000; x++) {
+            for (int y = 1; y <= 1000; y++) {
+                if (customfunction.f(x, y) == z) {
+                    answer.add(Arrays.asList(x, y));
+                }
             }
         }
 
