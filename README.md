@@ -118,6 +118,7 @@
 | [0015-3sum](https://github.com/KKPASII/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0141-linked-list-cycle](https://github.com/KKPASII/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/KKPASII/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/KKPASII/LeetCode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/KKPASII/LeetCode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/KKPASII/LeetCode/tree/main/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/KKPASII/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -134,6 +135,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/KKPASII/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KKPASII/LeetCode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KKPASII/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/KKPASII/LeetCode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/KKPASII/LeetCode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -158,6 +160,7 @@
 | [0070-climbing-stairs](https://github.com/KKPASII/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0539-minimum-time-difference](https://github.com/KKPASII/LeetCode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0908-smallest-range-i](https://github.com/KKPASII/LeetCode/tree/main/0908-smallest-range-i/) | Easy |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/KKPASII/LeetCode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/KKPASII/LeetCode/tree/main/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -230,4 +233,8 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KKPASII/LeetCode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/KKPASII/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/KKPASII/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/KKPASII/LeetCode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 <!---LeetCode Topics End-->
