@@ -166,6 +166,7 @@
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/KKPASII/LeetCode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/KKPASII/LeetCode/tree/main/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | Medium |
 | [2729-check-if-the-number-is-fascinating](https://github.com/KKPASII/LeetCode/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/KKPASII/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -249,4 +250,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0959-regions-cut-by-slashes](https://github.com/KKPASII/LeetCode/tree/main/0959-regions-cut-by-slashes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/KKPASII/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
