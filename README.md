@@ -95,6 +95,7 @@
 | [2352-equal-row-and-column-pairs](https://github.com/KKPASII/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2506-count-pairs-of-similar-strings](https://github.com/KKPASII/LeetCode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2653-sliding-subarray-beauty](https://github.com/KKPASII/LeetCode/tree/main/2653-sliding-subarray-beauty/) | Medium |
+| [2729-check-if-the-number-is-fascinating](https://github.com/KKPASII/LeetCode/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 | [3238-find-the-number-of-winning-players](https://github.com/KKPASII/LeetCode/tree/main/3238-find-the-number-of-winning-players/) | Easy |
 | [3839-number-of-prefix-connected-groups](https://github.com/KKPASII/LeetCode/tree/main/3839-number-of-prefix-connected-groups/) | Medium |
 ## String
@@ -164,6 +165,7 @@
 | [0908-smallest-range-i](https://github.com/KKPASII/LeetCode/tree/main/0908-smallest-range-i/) | Easy |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/KKPASII/LeetCode/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/KKPASII/LeetCode/tree/main/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | Medium |
+| [2729-check-if-the-number-is-fascinating](https://github.com/KKPASII/LeetCode/tree/main/2729-check-if-the-number-is-fascinating/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
