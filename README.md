@@ -112,6 +112,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/KKPASII/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/KKPASII/LeetCode/tree/main/1638-count-substrings-that-differ-by-one-character/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/KKPASII/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2027-minimum-moves-to-convert-string](https://github.com/KKPASII/LeetCode/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/KKPASII/LeetCode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2938-separate-black-and-white-balls](https://github.com/KKPASII/LeetCode/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3174-clear-digits](https://github.com/KKPASII/LeetCode/tree/main/3174-clear-digits/) | Easy |
@@ -147,6 +148,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/KKPASII/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/KKPASII/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [2027-minimum-moves-to-convert-string](https://github.com/KKPASII/LeetCode/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2429-minimize-xor](https://github.com/KKPASII/LeetCode/tree/main/2429-minimize-xor/) | Medium |
 | [2938-separate-black-and-white-balls](https://github.com/KKPASII/LeetCode/tree/main/2938-separate-black-and-white-balls/) | Medium |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/KKPASII/LeetCode/tree/main/3424-minimum-cost-to-make-arrays-identical/) | Medium |
