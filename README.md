@@ -28,6 +28,7 @@
 | [0959-regions-cut-by-slashes](https://github.com/KKPASII/LeetCode/tree/main/0959-regions-cut-by-slashes/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/KKPASII/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1375-number-of-times-binary-string-is-prefix-aligned](https://github.com/KKPASII/LeetCode/tree/main/1375-number-of-times-binary-string-is-prefix-aligned/) | Medium |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/KKPASII/LeetCode/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/KKPASII/LeetCode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/KKPASII/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/KKPASII/LeetCode/tree/main/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | Medium |
@@ -51,6 +52,7 @@
 | [0242-valid-anagram](https://github.com/KKPASII/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0539-minimum-time-difference](https://github.com/KKPASII/LeetCode/tree/main/0539-minimum-time-difference/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/KKPASII/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/KKPASII/LeetCode/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/KKPASII/LeetCode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [3424-minimum-cost-to-make-arrays-identical](https://github.com/KKPASII/LeetCode/tree/main/3424-minimum-cost-to-make-arrays-identical/) | Medium |
 | [3467-transform-array-by-parity](https://github.com/KKPASII/LeetCode/tree/main/3467-transform-array-by-parity/) | Easy |
@@ -149,6 +151,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/KKPASII/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/KKPASII/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/KKPASII/LeetCode/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/KKPASII/LeetCode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [2027-minimum-moves-to-convert-string](https://github.com/KKPASII/LeetCode/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2429-minimize-xor](https://github.com/KKPASII/LeetCode/tree/main/2429-minimize-xor/) | Medium |
