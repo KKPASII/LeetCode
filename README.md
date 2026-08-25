@@ -31,6 +31,7 @@
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/KKPASII/LeetCode/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/KKPASII/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/KKPASII/LeetCode/tree/main/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/) | Medium |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/KKPASII/LeetCode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [1929-concatenation-of-array](https://github.com/KKPASII/LeetCode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/KKPASII/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2506-count-pairs-of-similar-strings](https://github.com/KKPASII/LeetCode/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
@@ -148,6 +149,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/KKPASII/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/KKPASII/LeetCode/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/KKPASII/LeetCode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [2027-minimum-moves-to-convert-string](https://github.com/KKPASII/LeetCode/tree/main/2027-minimum-moves-to-convert-string/) | Easy |
 | [2429-minimize-xor](https://github.com/KKPASII/LeetCode/tree/main/2429-minimize-xor/) | Medium |
 | [2938-separate-black-and-white-balls](https://github.com/KKPASII/LeetCode/tree/main/2938-separate-black-and-white-balls/) | Medium |
