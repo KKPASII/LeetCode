@@ -5,10 +5,10 @@ class Solution {
         int answer = 0;
 
         for (int i = 0; i < boxTypes.length; i++) {
-            int count = Math.min(boxTypes[i][0], truckSize);
+            int boxCount = Math.min(boxTypes[i][0], truckSize);
 
-            answer += count * boxTypes[i][1];
-            truckSize -= count;
+            answer += boxCount * boxTypes[i][1];
+            truckSize -= boxCount;
 
             if (truckSize == 0) {
                 break;
